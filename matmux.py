@@ -27,7 +27,7 @@ class Solution:
         # return: List[List[int]]
         
         # TODO: Write code below to return a nested list with the solution to the prompt
-        result = [0]
+        result = [[0, 0], [0,0]]
         for i in range(len(m1)):
      
         # iterating by column by B
